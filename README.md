@@ -14,8 +14,11 @@ The *Outcomes Based on Goals* portion of this project required a lot of function
 1. One primary conclusion we can draw based on the potential success of a Kickstarter campaign is that the summer months collectively seem to have the most successful projects, with the start of the summer (May and June) having the highest amount.
 2. A secondary conclusion related to the potential failures of projects is that the amount of successful projects starts to rapidly decrease when started throughout the fall and winter seasons, with the smallest amount of successfully launched campaigns throughout the entirety of the year belonging to December.
 - What can you conclude about the Outcomes based on Goals?
+
 A clear conclusion that can be drawn is that Kickstarter projects that have a funding goal of less than $5,000 will see the most overall success - not only proven by having the highest percentage of successfull campaigns, but also the lowest amount of campaigns that were cancelled.
 - What are some limitations of this dataset?
+
 Potential limitations of this dataset relate to lack of data about the exposure and impressions of the projects: having metrics about clickthrough rate, overall impressions that can be mapped against the total backers provided, etc., which are all valuable pieces of data, are missing here and can provide deeper analysis about what contributes to the most successful campaigns on Kickstarter.
 - What are some other possible tables and/or graphs that we could create?
+
 Although the graphs we created are great starting points, they lack granularity to be able to explain some nuanced questions that come up; for example, "Why do the summer projects have the most success of the year?" Instead of mapping purely count, seeing the percentage of successful campaigns across the year (shown below) actually determines that the summer month are not the most successful, as proportionally they yield the same results compared to other calendar moonths. Simply putting datapoints against eachother  doesn't provide effective insight; to answer this question (and others), tables and graphs that feature a combinations of datapoints need to be considered before effective conclusions can be made, such as launch date against duration of campaign against funding goal.
