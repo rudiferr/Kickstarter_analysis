@@ -8,7 +8,7 @@ Using a pivot table the dataset was organized such that the counts of the differ
 ![Graph of Outcomes Based on Launch Date (count)](https://github.com/rudiferr/kickstarter-analysis/blob/main/graphPictures/Theater%20Outcomes%20vs%20Launch%20(count).png)
 ### Analysis of Outcomes Based on Goals
 Using the `=COUNTIF()` and `=SUM()` functions in Excel the dataset was organized such that the counts of the different outcomes states were mapped against fixed monetary ranges of funding goals were a Kickstarter project can have. These numbers were then used to find the percentage successful, failed, and cancelled outcomes compared to the total outcomes that existed for a given range. Those percentages were then organized in a line chart to visualize the trend of these percentages as the funding goal ranges increase.
-![Graph of Outcomes Based on Goals]()
+![Graph of Outcomes Based on Goals](https://github.com/rudiferr/kickstarter-analysis/blob/main/graphPictures/Outcomes%20vs%20Goals.png)
 ### Challenges and Difficulties Encountered
 The *Outcomes Based on Goals* portion of this project required a lot of functions to be potentially retyped manually, which can painstakingly increase the amount of work required to successfully parse through the sheet with all of the raw data. Though, knowing how to make absolute cell references drastically decreased the amount of time required as you didn't have to worry about Excel changing the function due to them potentially being relative cell references.
 ## Results
