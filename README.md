@@ -1,7 +1,6 @@
 # "kickstarting_excel" Week 1 Challenge
 ## Overview of Project
-### Tools Used
-* Microsoft Excel
+Tools Used: Microsoft Excel
 ### Purpose
 The purpose of this project is to answer the two questions "Which month of the year has the most successfully launched theater-related Kickstarter campaigns?" and "Which funding goal range sees the most successful Kickstarter campaigns?" Visualizing the datasets allows us quickly answer these questions, while also gathering insights into other potential follow-up questions by organzing the data in such a manner that the pivot tables and formulas used can be easily modified for future use.
 ## Analysis and Challenges
